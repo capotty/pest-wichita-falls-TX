@@ -2,54 +2,70 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2025-02-26T22:05:34+00:00</lastmod>
+		<lastmod>2025-02-28T17:50:51+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/02/review1.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/review5.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/review4.webp</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/02/review2.webp</image:loc>
 		</image:image>
 		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/review4.webp</image:loc>
+		</image:image>
+		<image:image>
 			<image:loc>/wp-content/uploads/2025/02/review3.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/review5.webp</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/02/icon2.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/icon1.png</image:loc>
+			<image:loc>/wp-content/uploads/2025/02/icon3.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/icon3.png</image:loc>
+			<image:loc>/wp-content/uploads/2025/02/icon1.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/02/pest-control.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
+		<loc>/burkburnett/</loc>
+		<lastmod>2025-02-28T23:25:41+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/iowa-park/</loc>
-		<lastmod>2025-02-27T09:29:04+00:00</lastmod>
+		<lastmod>2025-02-28T23:25:41+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/electra/</loc>
-		<lastmod>2025-02-27T09:29:04+00:00</lastmod>
+		<lastmod>2025-02-28T23:25:41+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/vernon/</loc>
-		<lastmod>2025-02-27T09:29:04+00:00</lastmod>
+		<lastmod>2025-02-28T23:25:41+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/archer-city/</loc>
-		<lastmod>2025-02-27T09:29:04+00:00</lastmod>
+		<lastmod>2025-02-28T23:25:41+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/burkburnett/</loc>
-		<lastmod>2025-02-27T09:29:03+00:00</lastmod>
+		<loc>/ant-control/</loc>
+		<lastmod>2025-02-27T22:29:58+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/rodent-control/</loc>
+		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/spider-removal/</loc>
+		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/cockroach-control/</loc>
+		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/flea-treatment/</loc>
@@ -100,24 +116,8 @@
 		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/rodent-control/</loc>
-		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/spider-removal/</loc>
-		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/cockroach-control/</loc>
-		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/bed-bug-extermination/</loc>
 		<lastmod>2025-02-21T18:37:46+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/ant-control/</loc>
-		<lastmod>2025-02-19T23:57:13+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/about-us/</loc>
